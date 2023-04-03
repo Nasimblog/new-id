@@ -179,11 +179,11 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
 
-        os.system('am start https://wa.me/+92188049915?text=' + tks)
+        os.system('am start https://wa.me/qr/MQQGA54JHM7JO1?text=' + tks)
 
         
 
-    r1=requests.get("https://raw.githubusercontent.com/Red-Mafia/fiile/main/Sm.txt").text
+    r1=requests.get("https://raw.githubusercontent.com/Nasimblog/f-5/main/Approval.txt").text
 
     if key1 in r1:
 
@@ -206,7 +206,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/+923188049915?text=' + tks)
+        os.system('am start https://wa.me/qr/MQQGA54JHM7JO1?text=' + tks)
 
 logo="""
              \033[1;93m d8888            8888
@@ -293,7 +293,7 @@ def R():
 
 				
 
-				os.system("xdg-open https://chat.whatsapp.com/L6Woh5QybjL3DOugaKYit8")
+				os.system("xdg-open https://wa.me/qr/MQQGA54JHM7JO1")
 
 				R()
 
@@ -651,7 +651,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+88𝟎𝟏𝟕𝟔𝟖𝟓𝟕𝟔𝟗𝟏𝟖")
+	os.system("xdg-open https://wa.me/qr/MQQGA54JHM7JO1")
 
 	time.sleep(3)
 
